@@ -170,26 +170,6 @@ Expected output:
 
 ---
 
-## Evaluation Rubric
-
-| Category | Points | Criteria |
-|----------|--------|----------|
-| Assignment 1 | 40 | Teacher class and comprehensive test suite |
-| Assignment 2 | 30 | Parameterized tests with multiple sources |
-| Assignment 3 | 30 | Course enrollment with nested tests |
-| Code Quality | 10 | Clean code, documentation, conventions |
-| **Total** | **110** | (100 base + 10 quality) |
-| Bonus | +20 | Optional challenges |
-
-### Grading Scale
-- A: 90-110+ points
-- B: 80-89 points
-- C: 70-79 points
-- D: 60-69 points
-- F: Below 60 points
-
----
-
 ## Tips for Success
 
 1. **Start with Assignment 1** - It builds foundation for others
