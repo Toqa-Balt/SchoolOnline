@@ -106,3 +106,7 @@ logs/
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+*.log
+.env
+node_modules/

@@ -72,3 +72,6 @@ src/
     └── java/com/bootcamp/onlineschool/
         └── OnlineSchoolApplicationTests.java
 ```
+
+## Git and GitHub Foundations Lab
+Practicing Git branching, committing, pushing, and merging pull requests.
